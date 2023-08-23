@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415416562079",
+    "project_id": "workout-pro-65898",
+    "storage_bucket": "workout-pro-65898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415416562079:android:30dbd8f466b4d57993cdaa",
+        "android_client_info": {
+          "package_name": "com.kaafdevs.workoutpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415416562079-dokev2hgida4be96b3m76r87h5n6rspv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3vXGziWq5yI9aPLRlrwlQdRnR0HhNFsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415416562079-dokev2hgida4be96b3m76r87h5n6rspv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
